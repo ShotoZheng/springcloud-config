@@ -1,1 +1,2 @@
-name: config-dev
+config: 
+  info: i am config-dev.yml
